@@ -1,0 +1,5 @@
+name = input("eneter your name:")
+print("welcome",name)
+bharti = input("eneter your age:")
+print("you eneterd", bharti)
+kahani= input("eneter your story:")
