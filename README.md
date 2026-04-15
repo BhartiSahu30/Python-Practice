@@ -24,7 +24,7 @@ Python 3.x
 IDEs: VS Code / PyCharm / Jupyter Notebook
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/Python-Practine-Repository.git
+git clone https://github.com/BhartiSahu30/Python-Practine-Repository.git
 2. Navigate to the project folder
 cd Python-Practine-Repository
 3. Run any Python file
