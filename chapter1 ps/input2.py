@@ -1,3 +1,10 @@
-val = input("Enter the value:")
-val = int(input("Enter some value:"))
-print(type(val),val)
+val1 = input("Enter the value:") #it is giving string value type because there is doesn't defined any type of value
+val2 = int(input("Enter some value:"))
+print(type(val1),val1)
+print(type(val2),val2)
+name = input("Enter your name:")
+age= input("Enter your age:")
+marks =input("Enter your marks:")
+print("Hello",name)
+print("age =",age)
+print("marks =",marks)
