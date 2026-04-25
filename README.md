@@ -1,7 +1,7 @@
 🐍 Python Practice Repository
 📌 Overview
 
-This repository contains my Python practine programs and coding exercises.
+This repository contains my Python practice programs and coding exercises.
 It is focused on building a strong foundation in Python and improving problem-solving skills through consistent practice.
 
 🎯 Goals
@@ -10,7 +10,7 @@ Improve logical thinking and coding skills
 Practice data structures and algorithms
 Prepare for academic exams and technical interviews
 📂 Repository Structure
-Python-Practine-Repository/
+Python-Practice-Repository/
 │
 ├── Basics/              # Variables, loops, conditionals
 ├── Functions/           # Function-based problems
@@ -24,9 +24,9 @@ Python 3.x
 IDEs: VS Code / PyCharm / Jupyter Notebook
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/BhartiSahu30/Python-Practine-Repository.git
+git clone https://github.com/BhartiSahu30/Python-Practicee-Repository.git
 2. Navigate to the project folder
-cd Python-Practine-Repository
+cd Python-Practice-Repository
 3. Run any Python file
 python filename.py
 ✍️ Topics Covered
