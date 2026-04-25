@@ -1,4 +1,4 @@
-🐍 Python Practine Repository
+🐍 Python Practice Repository
 📌 Overview
 
 This repository contains my Python practine programs and coding exercises.
